@@ -1,5 +1,6 @@
 👋 Hello!
-My name is Lee Seo Bin, I am a developer working at [Gachon Univercity](https://www.gachon.ac.kr/main.jsp)
+My name is Lee Seo Bin, 
+I am a developer working at [Gachon Univercity](https://www.gachon.ac.kr/main.jsp)
 
 <!--
 **leeseobin00/leeseobin00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
