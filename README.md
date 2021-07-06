@@ -10,7 +10,6 @@ I am a developer studying at [Department of Software, Gachon University](https:/
 [![leeseobin's github stats](https://github-readme-stats.vercel.app/api?username=leeseobin00)](https://github.com/leeseobin00/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeseobin00&layout=compact&hide=HTML)](https://github.com/leeseobin00/)
-</p
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
