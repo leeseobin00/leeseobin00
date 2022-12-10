@@ -2,9 +2,7 @@
 
 👋 Hello!
 
-My name is Lee Seo Bin, 
-
-I am a developer studying at [Department of Software, Gachon University](https://sw.gachon.ac.kr/)
+My name is Lee Seo Bin.
 
 
 [![leeseobin's github stats](https://github-readme-stats.vercel.app/api?username=leeseobin00)](https://github.com/leeseobin00/github-readme-stats)
