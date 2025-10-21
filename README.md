@@ -21,12 +21,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger)
 
-#### 💬 Frontend & Collaboration  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira)
-![Mattermost](https://img.shields.io/badge/Mattermost-0072C6?style=flat-square&logo=mattermost)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion)
-
 ---
 
 ### 💻 주요 프로젝트
